@@ -1,0 +1,7 @@
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\MetodsuzKutuphane\MetodsuzKutuphane\bin\Debug\MetodsuzKutuphane.exe.config
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\MetodsuzKutuphane\MetodsuzKutuphane\bin\Debug\MetodsuzKutuphane.exe
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\MetodsuzKutuphane\MetodsuzKutuphane\bin\Debug\MetodsuzKutuphane.pdb
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\MetodsuzKutuphane\MetodsuzKutuphane\obj\Debug\MetodsuzKutuphane.csproj.AssemblyReference.cache
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\MetodsuzKutuphane\MetodsuzKutuphane\obj\Debug\MetodsuzKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\MetodsuzKutuphane\MetodsuzKutuphane\obj\Debug\MetodsuzKutuphane.exe
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\MetodsuzKutuphane\MetodsuzKutuphane\obj\Debug\MetodsuzKutuphane.pdb
